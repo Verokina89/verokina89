@@ -1,9 +1,9 @@
-## Hi there hi there wellcome to my profile of GitHub👋
+## Hi there wellcome to my profile of GitHub👋
 
-# 👋 ¡Hola! Soy Verónica Isabel  
-### 💻 Estudiante de Desarrollo Web Full Stack
+# 👋 ¡Soy Verónica Isabel!   
+### 💻 Jr Full-Stack Web Developer.
 
-![Banner](https://raw.githubusercontent.com/verokina89/verokina89/main/banner.png) <!-- Puedes subir tu imagen/banner a tu repo y usar su URL aquí -->
+![Verokina](https://github.com/Verokina89/verokina89/blob/main/capLogoDeveloperCenter.png) 
 
 ---
 
