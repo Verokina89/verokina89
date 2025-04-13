@@ -20,8 +20,12 @@ This my ✨ _special_ ✨ repository.
 
 [![CV](https://img.shields.io/badge/CV_Verokina89-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/tu-usuario/tu-repo/raw/main/CV_Verokina89.pdf)
 
+[![Lee mi blog sobre Apple Watch en WordPress](https://img.shields.io/badge/Blog%20Post-Apple%20Watch%20Series%209-0A66C2?style=for-the-badge&logo=wordpress&logoColor=white)](https://vertecnologiamovil.wordpress.com/2024/04/30/el-apple-watch-serie-9-nos-estara-acercando-al-futuro-con-su-nueva-funcion/)
 
-[![My Blog Tech](https://img.shields.io/badge/My%20Tech%20Blog-WordPress-blueviolet?style=for-the-badge&logo=wordpress&logoColor=white)](https://vertecnologiamovil.wordpress.com/2024/04/30/el-apple-watch-serie-9-nos-estara-acercando-al-futuro-con-su-nueva-funcion/)
+
+[![Tech Blog](https://img.shields.io/badge/Apple%20Watch%20Review-Tech%20Blog-black?style=for-the-badge&logo=wordpress&logoColor=white)](https://vertecnologiamovil.wordpress.com/2024/04/30/el-apple-watch-serie-9-nos-estara-acercando-al-futuro-con-su-nueva-funcion/)
+
+
 
 
 
