@@ -13,7 +13,7 @@ This my ✨ _special_ ✨ repository.
 - 🎯 Focused on HTML, CSS, JS, NODE.js, React, and databases
 
 ### 💼 Portfolio:
-<img src="https://github.com/Verokina89/verokina89/blob/main/capBackgroudWeb.png" width="80%">
+<img src="https://github.com/Verokina89/verokina89/blob/main/capBackgroudWeb.png" width="70%">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-cv-pearl.vercel.app/projects)
 
@@ -21,12 +21,6 @@ This my ✨ _special_ ✨ repository.
 [![CV](https://img.shields.io/badge/CV_Verokina89-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/tu-usuario/tu-repo/raw/main/CV_Verokina89.pdf)
 
 [![Lee mi blog sobre Apple Watch en WordPress](https://img.shields.io/badge/Blog%20Post-Apple%20Watch%20Series%209-0A66C2?style=for-the-badge&logo=wordpress&logoColor=white)](https://vertecnologiamovil.wordpress.com/2024/04/30/el-apple-watch-serie-9-nos-estara-acercando-al-futuro-con-su-nueva-funcion/)
-
-
-[![Tech Blog](https://img.shields.io/badge/Apple%20Watch%20Review-Tech%20Blog-black?style=for-the-badge&logo=wordpress&logoColor=white)](https://vertecnologiamovil.wordpress.com/2024/04/30/el-apple-watch-serie-9-nos-estara-acercando-al-futuro-con-su-nueva-funcion/)
-
-
-
 
 
 ### 📫 How to reach me:
@@ -50,10 +44,4 @@ This my ✨ _special_ ✨ repository.
 👩‍💻🚀Focused and code addict.
 🎮 Ex-Gulag convict, and Warzone player.
 
-<img src="https://github.com/Verokina89/verokina89/blob/main/video_game-call_of_duty_warzone-978885.jpeg" width="50%" />
-
-
-
-
-
-
+<img src="https://github.com/Verokina89/verokina89/blob/main/video_game-call_of_duty_warzone-978885.jpeg" width="60%" />
