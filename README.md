@@ -28,7 +28,7 @@ This my ✨ _special_ ✨ repository.
  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/verokina_89/)
   
-[![LinkedIn](https://img.shields.io/badge/-Verónica_Pérez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronicaiperezs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Verónica_Pérez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronicaiperezs)
 
 [![Twitch](https://img.shields.io/badge/Twitch-verokina__89-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/verokina_89)
   
