@@ -13,7 +13,7 @@ This my ✨ _special_ ✨ repository.
 - 🎯 Focused on HTML, CSS, JS, NODE.js, React, and databases
 
 ### 💼 Portfolio:
-<img src="https://github.com/Verokina89/verokina89/blob/main/capBackgroudWeb.png" width="70%">
+<img src="https://github.com/Verokina89/verokina89/blob/main/capBackgroudWeb.png" width="80%">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-cv-pearl.vercel.app/projects)
 
