@@ -3,32 +3,23 @@ This my ✨ _special_ ✨ repository.
 
 # 👋 ¡Soy Verónica Isabel!   
 ### 💻 Jr Full-Stack Web Developer.
-
-<img src="https://github.com/Verokina89/verokina89/blob/main/capBackgroudWeb.png" width="100%" />
 ---
 
 ![Verokina](https://github.com/Verokina89/verokina89/blob/main/capLogoDeveloperCenter.png) 
-- 🔭 I’m currently working on personal projects as programmer; 
-  
+
 Ans as community manager; ![Blog]<https://vertecnologiamovil.wordpress.com/2024/04/30/el-apple-watch-serie-9-nos-estara-acercando-al-futuro-con-su-nueva-funcion/>
 - 🎓 I completed my studies as a Full-Stack Developer at The Bridge Bootcamp.
+- 🔭 I’m currently working on personal projects as programmer; 
 - 🌱 I’m currently learning web programming.
 - 🎯 Focused on HTML, CSS, JS, NODE.js, React, and databases
 
-<img src="https://github.com/Verokina89/verokina89/blob/main/4D0CB1BF-9907-4E22-BE17-CC267F9A16C4_1_105_c.jpeg" width="100%" />
-
-
-[![Portfolio](https://img.shields.io/badge/Portafolio-Web-blueviolet?style=for-the-badge&logo=web&logoColor=white)](https://portfolio-cv-pearl.vercel.app/projects)
-
-[![Visita mi Portafolio](https://img.shields.io/badge/Visita%20mi%20Portafolio-%F0%9F%91%80-blue?style=for-the-badge)](https://portfolio-cv-pearl.vercel.app/projects)
-
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-informational?style=for-the-badge&logo=vercel)](https://portfolio-cv-pearl.vercel.app/projects)
 
-
-💼 combo de portfolio con cv:
+### 💼 Portfolio:
 [![CV](https://img.shields.io/badge/CV_Verokina89-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/tu-usuario/tu-repo/raw/main/CV_Verokina89.pdf)
 [![Portfolio](https://img.shields.io/badge/Portafolio-Web-blueviolet?style=for-the-badge&logo=web&logoColor=white)](https://portfolio-cv-pearl.vercel.app/projects)
 
+<img src="https://github.com/Verokina89/verokina89/blob/main/4D0CB1BF-9907-4E22-BE17-CC267F9A16C4_1_105_c.jpeg" width="60%" />
 
 
 ### 📫 How to reach me:
