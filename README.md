@@ -26,6 +26,8 @@ This my ✨ _special_ ✨ repository.
 
 
 ### 📫 How to reach me:
+ <img src="https://github.com/Verokina89/verokina89/blob/main/4D0CB1BF-9907-4E22-BE17-CC267F9A16C4_1_105_c.jpeg" width="60%" />
+ 
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/verokina_89/)
   
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Verónica_Pérez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronicaiperezs)
@@ -36,7 +38,6 @@ This my ✨ _special_ ✨ repository.
   
 - [![Discord](https://img.shields.io/badge/Discord-verokina_89-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/verokina_89)
 
- <img src="https://github.com/Verokina89/verokina89/blob/main/4D0CB1BF-9907-4E22-BE17-CC267F9A16C4_1_105_c.jpeg" width="60%" />
  
 ---
 ### ⚡ Fun fact: 
