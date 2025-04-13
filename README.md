@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning web programming
 - 📫 How to reach me: 
-[![LinkedIn] (https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)] (https://www.linkedin.com/in/veronicaiperezs)
+[![LinkedIn] (https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/veronicaiperezs)]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Web programmer in progress... focused on HTML, CSS, JS, NODE.js, React, and databases; code addict, ex-Gulag convict, and Warzone player.
 
