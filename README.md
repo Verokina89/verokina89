@@ -1,9 +1,10 @@
 ## Hi there wellcome to my profile of GitHub👋
-![Verokina](https://github.com/Verokina89/verokina89/blob/main/capLogoDeveloperCenter.png) 
 This my ✨ _special_ ✨ repository.
 
 # 👋 ¡Soy Verónica Isabel!   
 ### 💻 Jr Full-Stack Web Developer.
+![Verokina](https://github.com/Verokina89/verokina89/blob/main/capLogoDeveloperCenter.png) 
+
 ---
 
 - 🎓 I completed my studies as a Full-Stack Developer at The Bridge Bootcamp.
@@ -12,11 +13,17 @@ This my ✨ _special_ ✨ repository.
 - 🎯 Focused on HTML, CSS, JS, NODE.js, React, and databases
 
 ### 💼 Portfolio:
-[![Portfolio](https://img.shields.io/badge/Portafolio-Web-blueviolet?style=for-the-badge&logo=web&logoColor=white)](https://portfolio-cv-pearl.vercel.app/projects)
+<img src="https://github.com/Verokina89/verokina89/blob/main/capBackgroudWeb.png" width="60%">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-cv-pearl.vercel.app/projects)
+
+
 [![CV](https://img.shields.io/badge/CV_Verokina89-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/tu-usuario/tu-repo/raw/main/CV_Verokina89.pdf)
 
-![MyBlogTech]<https://vertecnologiamovil.wordpress.com/2024/04/30/el-apple-watch-serie-9-nos-estara-acercando-al-futuro-con-su-nueva-funcion/>
-<img src="https://github.com/Verokina89/verokina89/blob/main/capBackgroudWeb.png" width="60%">
+
+[![My Blog Tech](https://img.shields.io/badge/My%20Tech%20Blog-WordPress-blueviolet?style=for-the-badge&logo=wordpress&logoColor=white)](https://vertecnologiamovil.wordpress.com/2024/04/30/el-apple-watch-serie-9-nos-estara-acercando-al-futuro-con-su-nueva-funcion/)
+
+
 
 ### 📫 How to reach me:
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/verokina_89/)
