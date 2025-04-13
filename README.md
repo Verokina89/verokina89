@@ -1,6 +1,6 @@
 ## Hi there hi there wellcome to my profile of GitHub👋
 
-<!--
+
 **Verokina89/verokina89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Web programmer in progress... focused on HTML, CSS, JS, NODE.js, React, and databases; code addict, ex-Gulag convict, and Warzone player.
 
 
--->
+
