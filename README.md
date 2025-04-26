@@ -3,9 +3,13 @@ This my ✨ _special_ ✨ repository.
 
 <div align="center">
 
-# 👋 ¡Soy Verónica Isabel!   
-### 💻 Jr Full-Stack Web Developer.
+# 👋 ¡Soy Verónica Isabel! 
 
+</div>
+
+<div align="center">
+ 
+### 💻 Jr Full-Stack Web Developer.
 
 ![Verokina](https://github.com/Verokina89/verokina89/blob/main/capLogoDeveloperCenter.png) 
 
@@ -53,19 +57,24 @@ This my ✨ _special_ ✨ repository.
 
 
 ### 💼 Portfolio:
-
-<div align="center">
 <img src="https://github.com/Verokina89/verokina89/blob/main/capBackgroudWeb.png" width="80%">
 
+<div align="center">
+ 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-cv-pearl.vercel.app/projects)
 
 [![CV](https://img.shields.io/badge/CV_Verokina89-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/tu-usuario/tu-repo/raw/main/CV_Verokina89.pdf)
 
 [![Lee mi blog sobre Apple Watch en WordPress](https://img.shields.io/badge/Blog%20Post-Apple%20Watch%20Series%209-0A66C2?style=for-the-badge&logo=wordpress&logoColor=white)](https://vertecnologiamovil.wordpress.com/2024/04/30/el-apple-watch-serie-9-nos-estara-acercando-al-futuro-con-su-nueva-funcion/)
- </div>
+
+</div>
 
 ### 📫 How to reach me:
+<div align="center">
+ 
  <img src="https://github.com/Verokina89/verokina89/blob/main/4D0CB1BF-9907-4E22-BE17-CC267F9A16C4_1_105_c.jpeg" width="60%" />
+
+ </div>
  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/verokina_89/)
   
@@ -82,5 +91,7 @@ This my ✨ _special_ ✨ repository.
 🎮 Ex-Gulag convict, and Warzone player.
 
 <div align="center">
+ 
 <img src="https://github.com/Verokina89/verokina89/blob/main/video_game-call_of_duty_warzone-978885.jpeg" width="60%" />
+
 </div>
