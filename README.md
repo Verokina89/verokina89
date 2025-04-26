@@ -7,10 +7,11 @@ This my ✨ _special_ ✨ repository.
 
 </div>
 
-<div align="center">
  
 ### 💻 Jr Full-Stack Web Developer.
 
+<div align="center">
+ 
 ![Verokina](https://github.com/Verokina89/verokina89/blob/main/capLogoDeveloperCenter.png) 
 
 </div>
@@ -57,9 +58,12 @@ This my ✨ _special_ ✨ repository.
 
 
 ### 💼 Portfolio:
-<img src="https://github.com/Verokina89/verokina89/blob/main/capBackgroudWeb.png" width="80%">
 
 <div align="center">
+ 
+<img src="https://github.com/Verokina89/verokina89/blob/main/capBackgroudWeb.png" width="80%">
+
+</div>
  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-cv-pearl.vercel.app/projects)
 
@@ -67,7 +71,6 @@ This my ✨ _special_ ✨ repository.
 
 [![Lee mi blog sobre Apple Watch en WordPress](https://img.shields.io/badge/Blog%20Post-Apple%20Watch%20Series%209-0A66C2?style=for-the-badge&logo=wordpress&logoColor=white)](https://vertecnologiamovil.wordpress.com/2024/04/30/el-apple-watch-serie-9-nos-estara-acercando-al-futuro-con-su-nueva-funcion/)
 
-</div>
 
 ### 📫 How to reach me:
 <div align="center">
