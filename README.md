@@ -3,8 +3,12 @@ This my ✨ _special_ ✨ repository.
 
 # 👋 ¡Soy Verónica Isabel!   
 ### 💻 Jr Full-Stack Web Developer.
+
+<div align="center">
+
 ![Verokina](https://github.com/Verokina89/verokina89/blob/main/capLogoDeveloperCenter.png) 
 
+</div>
 ---
 
 - 🎓 I completed my studies as a Full-Stack Developer at The Bridge Bootcamp.
@@ -13,8 +17,8 @@ This my ✨ _special_ ✨ repository.
 - 🎯 Focused on HTML, CSS, JS, NODE.js, React, and databases
 
 ### 💼 Tecnologías Empledas:
-<div align="center">
 
+<div align="center">
 <!-- Frontend -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -34,22 +38,23 @@ This my ✨ _special_ ✨ repository.
 <!-- Base de Datos -->
 <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-
 </div>
 
 
 ### 💼 Portfolio:
+
+<div align="center">
 <img src="https://github.com/Verokina89/verokina89/blob/main/capBackgroudWeb.png" width="80%">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-cv-pearl.vercel.app/projects)
 
-
 [![CV](https://img.shields.io/badge/CV_Verokina89-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/tu-usuario/tu-repo/raw/main/CV_Verokina89.pdf)
 
 [![Lee mi blog sobre Apple Watch en WordPress](https://img.shields.io/badge/Blog%20Post-Apple%20Watch%20Series%209-0A66C2?style=for-the-badge&logo=wordpress&logoColor=white)](https://vertecnologiamovil.wordpress.com/2024/04/30/el-apple-watch-serie-9-nos-estara-acercando-al-futuro-con-su-nueva-funcion/)
-
+ </div>
 
 ### 📫 How to reach me:
+<div align="center">
  <img src="https://github.com/Verokina89/verokina89/blob/main/4D0CB1BF-9907-4E22-BE17-CC267F9A16C4_1_105_c.jpeg" width="60%" />
  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/verokina_89/)
@@ -59,7 +64,7 @@ This my ✨ _special_ ✨ repository.
 [![Twitch](https://img.shields.io/badge/Twitch-verokina__89-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/verokina_89)
   
 [![Discord](https://img.shields.io/badge/Discord-verokina_89-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/verokina_89)
-
+</div>
  
 ---
 ### ⚡ Fun fact: 
@@ -68,4 +73,6 @@ This my ✨ _special_ ✨ repository.
 👩‍💻🚀Focused and code addict.
 🎮 Ex-Gulag convict, and Warzone player.
 
+<div align="center">
 <img src="https://github.com/Verokina89/verokina89/blob/main/video_game-call_of_duty_warzone-978885.jpeg" width="60%" />
+</div>
