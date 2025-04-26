@@ -87,7 +87,7 @@ This my ✨ _special_ ✨ repository.
   
 [![Discord](https://img.shields.io/badge/Discord-verokina_89-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/verokina_89)
  
-###  🎮 ⚡ 🔫  Fun fact: 
+###   📚 ⚡ 🔫  Fun fact: 
 
 😄 Algunos amigos me llaman Verito|Verokina.
 💻🚀 Web programmer in progress... 
