@@ -1,22 +1,22 @@
 ## Hi there wellcome to my profile of GitHub👋
 This my ✨ _special_ ✨ repository.
 
+<div align="center">
+
 # 👋 ¡Soy Verónica Isabel!   
 ### 💻 Jr Full-Stack Web Developer.
 
-<div align="center">
 
 ![Verokina](https://github.com/Verokina89/verokina89/blob/main/capLogoDeveloperCenter.png) 
 
 </div>
----
 
 - 🎓 I completed my studies as a Full-Stack Developer at The Bridge Bootcamp.
 - 🔭 I’m currently working on personal projects as programmer; 
 - 🌱 I’m currently learning web programming.
 - 🎯 Focused on HTML, CSS, JS, NODE.js, React, and databases
 
-### 💼 Tecnologías Empledas:
+### 💻 Tecnologías Empledas:
 
 <div align="center">
 <!-- Frontend -->
@@ -54,7 +54,6 @@ This my ✨ _special_ ✨ repository.
  </div>
 
 ### 📫 How to reach me:
-<div align="center">
  <img src="https://github.com/Verokina89/verokina89/blob/main/4D0CB1BF-9907-4E22-BE17-CC267F9A16C4_1_105_c.jpeg" width="60%" />
  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/verokina_89/)
@@ -64,9 +63,7 @@ This my ✨ _special_ ✨ repository.
 [![Twitch](https://img.shields.io/badge/Twitch-verokina__89-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/verokina_89)
   
 [![Discord](https://img.shields.io/badge/Discord-verokina_89-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/verokina_89)
-</div>
  
----
 ### ⚡ Fun fact: 
 😄 Algunos amigos me llaman Verito|Verokina.
 💻🚀 Web programmer in progress... 
